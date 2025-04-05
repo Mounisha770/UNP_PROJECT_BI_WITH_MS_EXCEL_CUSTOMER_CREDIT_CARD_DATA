@@ -1,1 +1,5 @@
 # UNP_PROJECT_BI_WITH_MS_EXCEL_CUSTOMER_CREDIT_CARD_DATA
+
+I have done this project in collaboration with UNP Education as a part of my course. In this project I developed an excel Dashboards from Customer credit card data. Analysing the data and interpreting it by using various excel functions, creation of KPI's like Average income by occupation type, Income levels by education type, Income by age, Employment status by age range, Income type by gender, and gender by age range based on the data. The data examine spending habits, transaction patterns, and consumer behavior. It features interactive visuals, customizable filters, and detailed summary tables, which highlight key spending categories, significant transactions, and signs of potential fraud. The intuitive design of the dashboard supports strategic and which are created by using pivot tables, data-informed decisions in financial oversight and analysis.
+
+MS EXCEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1ymBWczXK3nUDgr0pYM4UyhXjcL0y9IBC/edit?usp=sharing&ouid=101610833901131161074&rtpof=true&sd=true
